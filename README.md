@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## Some of my Github Stats
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=hikkanote&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/hikkanote/github-readme-stats)
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=hikkanote=compact)](https://github.com/hikkanote/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=hikkanote&layout=compact)](https://github.com/hikkanote/github-readme-stats)
 
 
 <!--![Pedes's github stats](https://github-readme-stats.vercel.app/api?username=pedes) -->
