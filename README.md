@@ -1,7 +1,7 @@
-# Hello there 👋, I'm Andrés! 🦦
+# Hello there 👋
 
 **Get in touch:**
-[![Linkedin Badge](https://img.shields.io/badge/-andrespedes12-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrespedes12/)](https://www.linkedin.com/in/andrespedes12/) [![Github Badge](https://img.shields.io/badge/-pedes-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pedes/)](https://www.github.com/pedes/) ![Profile views](https://gpvc.arturio.dev/pedes)
+[![Github Badge](https://img.shields.io/badge/-hikkanote-grey?style=flat&logo=github&logoColor=white&link=https://github.com/hikkanote/)](https://www.github.com/hikkanote/) ![Profile views](https://gpvc.arturio.dev/hikkanote)
 
 <!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
 
@@ -18,18 +18,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<!-- - 📫 Let's get social: <a href="https://www.linkedin.com/in/andrespedes12/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>   -->
-
 - 🤓 I'm Java Advocate (a.k.a. Evangelist)
 - 💬 Let's talk about Software Architecture, Java, Security, Development Patterns.
 - 🏆 I'm an avid improver. Continuously learning how to make the world better.
-- Originally from **Medellin** 🇨🇴, now based in **Amsterdam** 🇳🇱
+-->
+
+- ⚡ Fun fact: **The first webpage is still running.** That page is still up and functioning at info.cern.ch though don’t expect much
 
 ## Some of my Github Stats
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=hikkanote&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/hikkanote/github-readme-stats)
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=hikkanote&layout=compact)](https://github.com/hikkanote/github-readme-stats)
 
 
-<!--![Pedes's github stats](https://github-readme-stats.vercel.app/api?username=pedes) -->
+<!--![hikkanote's github stats](https://github-readme-stats.vercel.app/api?username=hikkanote) -->
