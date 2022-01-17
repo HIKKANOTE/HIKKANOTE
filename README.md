@@ -15,7 +15,6 @@
   <img width="25" height="25" src="./icons/git.svg"  alt="Git">
   <img width="25" height="25" src="./icons/npm.svg"  alt="NPM">
   <img width="25" height="25" src="./icons/nodejs.svg"  alt="Node">
-  <img width="25" height="25" src="./icons/expressjs.svg"  alt="Express">
 </code>
 
 **Get in touch:**
