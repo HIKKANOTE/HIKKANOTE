@@ -3,7 +3,6 @@
 
 **Stack:**
 <code>
-<p>
   <img width="25" height="25" src="./icons/javascript.svg" alt="JavaScript">
   <img width="25" height="25" src="./icons/typescript.svg" alt="TypeScript">
   <img width="25" height="25" src="./icons/html5.svg" alt="HTML5">
@@ -16,7 +15,6 @@
   <img width="25" height="25" src="./icons/git.svg"  alt="Git">
   <img width="25" height="25" src="./icons/npm.svg"  alt="NPM">
   <img width="25" height="25" src="./icons/nodejs.svg"  alt="Node">
-  </p>
 </code>
 
 **Get in touch:**
