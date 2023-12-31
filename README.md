@@ -1,6 +1,6 @@
 # Hello there 👋
 ## Frontend Developer
-
+<meta name="color-scheme" content="dark light">
 **Stack:**
 <div>
   <img width="25" height="25" src="./icons/javascript.svg" alt="JavaScript">
