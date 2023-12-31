@@ -1,6 +1,9 @@
 # Hello there 👋
 ## Frontend Developer
-<meta name="color-scheme" content="dark light">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.png">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./light.png">
+</picture>
 **Stack:**
 <div>
   <img width="25" height="25" src="./icons/javascript.svg" alt="JavaScript">
