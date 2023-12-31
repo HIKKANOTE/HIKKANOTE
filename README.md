@@ -19,7 +19,7 @@
 
 **Get in touch:**
 [![Github Badge](https://img.shields.io/badge/-hikkanote-grey?style=flat&logo=github&logoColor=white&link=https://github.com/hikkanote/)](https://www.github.com/hikkanote/) ![Profile views](https://gpvc.arturio.dev/hikkanote)
-<img src="https://komarev.com/ghpvc/hikkanote&style=flat-square&color=blue" alt=""/>
+![](https://komarev.com/ghpvc/hikkanote)
 <!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
 
 <!--
